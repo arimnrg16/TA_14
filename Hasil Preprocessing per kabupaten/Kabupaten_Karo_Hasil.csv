@@ -1,0 +1,41 @@
+Geometri,Latitude,Longitude,City,Biaya,21-Dec-19,22-Dec-19,23-Dec-19,24-Dec-19,25-Dec-19,26-Dec-19,27-Dec-19,28-Dec-19
+northeast,3.24260298,98.53823118,Air Terjun Sikulikap,30000.0,21 (Hujan),22 (Gerimis Berpetir),23 ( Gerimis),23 (Gerimis Tidak Merata),24 ( Badai Guntur Tidak Merata,22 (Gerimis Berpetir),27 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.23990332,98.53553152,,30000.0,21 (Hujan),22 (Gerimis Berpetir),23 ( Gerimis),23 (Gerimis Tidak Merata),24 ( Badai Guntur Tidak Merata,22 (Gerimis Berpetir),27 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.19855423,98.54215983,Taman Alam Lumbini,0.0,19 (Hujan),22 (Badai Guntur Tidak Merata),23 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),22 (Gerimis Berpetir),23 (Badai Guntur Tidak Merata)
+southwest,3.19585457,98.53946017,,0.0,19 (Hujan),22 (Badai Guntur Tidak Merata),23 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),22 (Gerimis Berpetir),23 (Badai Guntur Tidak Merata)
+northeast,3.19409288,98.50267883,"Gundaling Hill, Berastagi",5000.0,20 (Gerimis Berpetir),21 (Gerimis),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.19139322,98.49997917,,5000.0,20 (Gerimis Berpetir),21 (Gerimis),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.19675888,98.50975298,Pasar Buah Berastagi,0.0,20 (Hujan),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.19405922,98.50705332,,0.0,20 (Hujan),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.22856898,98.54001323,LAU SIDEBUK DEBUK,100000.0,21 (Hujan),22 (Gerimis Berpetir),24 (Gerimis),23 (Badai Guntur Tidak Merata),24 (Badai Guntur Tidak Merata),23 (Gerimis Berpetir),24 (Gerimis Berpikir),24 (Gerimis  Berpikir)
+southwest,3.22586932,98.53731357,,100000.0,21 (Hujan),22 (Gerimis Berpetir),24 (Gerimis),23 (Badai Guntur Tidak Merata),24 (Badai Guntur Tidak Merata),23 (Gerimis Berpetir),24 (Gerimis Berpikir),24 (Gerimis  Berpikir)
+northeast,2.91805503,98.52038588,Air Terjun Sipiso Piso,25000.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata),26 (Badai Guntir Tidak Merata),24 (Gerimis Berpetir,25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+southwest,2.91535537,98.51768622,,25000.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata),26 (Badai Guntir Tidak Merata),24 (Gerimis Berpetir,25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+northeast,3.20476273,98.52699388,Mikie Funland,100000.0,20 (Hujan),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata) ,23 (Badai Guntur Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.20206307,98.52429422,,100000.0,20 (Hujan),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata) ,23 (Badai Guntur Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.2003527000000003,98.3840508,Danau Lau Kawar,2500.0,21 (Gerimis),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.1938179,98.379168,,2500.0,21 (Gerimis),21 (Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.26052033,98.51484603,Two Colors Waterfall,0.0,21 (Hujan),22 (Berpetir),23 (Gerimis),23 (Gerimis Tidak Merata),24 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Berpetir)
+southwest,3.25782067,98.51214637,,0.0,21 (Hujan),22 (Berpetir),23 (Gerimis),23 (Gerimis Tidak Merata),24 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Berpetir)
+northeast,3.19605438,98.50957523,Museum Pusaka Karo - Berastagi,0.0,,,,,,,,
+southwest,3.19335472,98.50687557,,0.0,,,,,,,,
+northeast,3.19892248,98.51340653,Bukit Kubu Berastagi,100000.0,20 (Hujan),21 ( Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.19622282,98.51070687,,100000.0,20 (Hujan),21 ( Gerimis Berpetir),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.22858903,98.54006688,TWA Lau Debuk-debuk,0.0,,,,,,,,
+southwest,3.22588937,98.53736722,,0.0,,,,,,,,
+northeast,3.09227893,98.36337688,Air Soda Kabupaten Karo,20000.0,25 (Hujan),26 (Gerimis Berpetir),28 (Gerimis),28 (Gerimis Tidak Merata),28 (Badai Gntur Tidak Merata),27 (Gerimis Berpetir),28 (Gerimis Berpetir),28 (Gerimis Berpetir)
+southwest,3.08957927,98.36067722,,20000.0,25 (Hujan),26 (Gerimis Berpetir),28 (Gerimis),28 (Gerimis Tidak Merata),28 (Badai Gntur Tidak Merata),27 (Gerimis Berpetir),28 (Gerimis Berpetir),28 (Gerimis Berpetir)
+northeast,3.19768408,98.54163458,Replika Pagoda Shwedagon,0.0,,,,,,,,
+southwest,3.19498442,98.53893492,,0.0,,,,,,,,
+northeast,2.90013368,98.51126703,Bukit Gajah Bobok,25000.0,21 (Hujan),22 (Gerimis Berpetir),24 (Gerimis),24 (Gerimis Tidak Merata),24 (Badai Guntur TIdak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,2.89743402,98.50856737,,25000.0,21 (Hujan),22 (Gerimis Berpetir),24 (Gerimis),24 (Gerimis Tidak Merata),24 (Badai Guntur TIdak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,2.91155648,98.52084703,Sapo Juma,0.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata ,26 (Badai Guntur Tidak Merata),24 (Gerimis Berpetir),25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+southwest,2.90885682,98.51814737,,0.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata ,26 (Badai Guntur Tidak Merata),24 (Gerimis Berpetir),25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+northeast,3.20840848,98.53903958,TAHURA (Taman Hutan Raya),15000.0,,,,,,,,
+southwest,3.20570882,98.53633992,,15000.0,,,,,,,,
+northeast,2.91296078,98.51968843,Taman bunga Sapo Juma,20000.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata ,26 (Badai Guntur Tidak Merata),24 (Gerimis Berpetir),25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+southwest,2.91026112,98.51698877,,20000.0,22 (Hujan),23 (Gerimis Berpetir),26 (Gerimis),25 (Gerimis Tidak Merata ,26 (Badai Guntur Tidak Merata),24 (Gerimis Berpetir),25 (Gerimis Berpetir),25 (Gerimis Berpetir)
+northeast,3.19319828,98.50379318,Puncak Gundaling Brastagi,100000.0,20 (Gerimis Berpetir),21 (Gerimis),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+southwest,3.19049862,98.50109352,,100000.0,20 (Gerimis Berpetir),21 (Gerimis),23 (Gerimis),22 (Gerimis Tidak Merata),23 (Badai Guntur Tidak Merata),22 (Gerimis Berpetir),23 (Gerimis Berpetir),23 (Gerimis Berpetir)
+northeast,3.02355873,98.39902373,"Puncak Pelangkah Gading, Kutambaru, Munte, Kab. Karo, Sumut",0.0,,,,,,,,
+southwest,3.02085907,98.39632407,,,,,,,,,,

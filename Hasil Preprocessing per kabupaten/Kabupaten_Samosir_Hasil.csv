@@ -1,0 +1,41 @@
+Geometri,Latitude,Longitude,City,Biaya,21-Dec-19,22-Dec-19,23-Dec-19,24-Dec-19,25-Dec-19,26-Dec-19,27-Dec-19,28-Dec-19
+northeast,2.69629943,98.69113898,Pasir putih Parbaba,10000.0,24(Gerimis),26(Gerimis Berpetir),27(Gerimis Tidak Merata),24(Gerimis Berpetir),27(Badai Guntur Tidak Merata) ,26(Gerimis Berpetir),27(Badai Guntur),26(Gerimis Berpetir)
+southwest,2.69359977,98.68843932,,10000.0,24(Gerimis),26(Gerimis Berpetir),27(Gerimis Tidak Merata),24(Gerimis Berpetir),27(Badai Guntur Tidak Merata) ,26(Gerimis Berpetir),27(Badai Guntur),26(Gerimis Berpetir)
+northeast,2.5399129,98.64625673,Efrata Waterfall,0.0,22(Gerimis),23(Gerimis Berpetir),25(Gerimis Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir)
+southwest,2.5358941,98.64355707,,0.0,22(Gerimis),23(Gerimis Berpetir),25(Gerimis Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir)
+northeast,2.53249,98.70030240000001,Bukit Holbung Samosir,5000.0,23(Hujan),24(Gerimis Berpetir),26(Gerimis Tidak Merata),25(Gerimis Berpetir),26(Badai Guntur Tidak Merata),25(Gerimis Berpetir),26(Badai Guntur),25(Gerimis Berpetir)
+southwest,2.5296104,98.696022,,5000.0,23(Hujan),24(Gerimis Berpetir),26(Gerimis Tidak Merata),25(Gerimis Berpetir),26(Badai Guntur Tidak Merata),25(Gerimis Berpetir),26(Badai Guntur),25(Gerimis Berpetir)
+northeast,2.53205288,98.73527253,Pemandian Air Panas Rianiate,5000.0,24(Hujan),26(Gerimis Berpetir),27(Badai Guntur Tidak merata),27(Gerimis Berpetir),27(Gerimis Berpetir),26(Gerimis Berpetir),27(Gerimis Berpetir),26(Gerimis Berpetir)
+southwest,2.52935322,98.73257287,,5000.0,24(Hujan),26(Gerimis Berpetir),27(Badai Guntur Tidak merata),27(Gerimis Berpetir),27(Gerimis Berpetir),26(Gerimis Berpetir),27(Gerimis Berpetir),26(Gerimis Berpetir)
+northeast,2.62005908,98.67688598,SAMTO AEK RANGAT,5000.0,,,,,,,,
+southwest,2.61735942,98.67418632,,5000.0,,,,,,,,
+northeast,2.55342898,98.64114263,Menara Pandang Tele Samosir,7000.0,,,,,,,,
+southwest,2.55072932,98.63844297,,7000.0,,,,,,,,
+northeast,2.65209423,98.86154413,Batak Museum,10000.0,,,,,,,,
+southwest,2.64939457,98.85884447,,10000.0,,,,,,,,
+northeast,2.76142603,98.72622573,Pantai Batu Hoda (Batu Hoda Beach),140000.0,,,,,,,,
+southwest,2.75872637,98.72352607,,140000.0,,,,,,,,
+northeast,2.59157223,98.63038383,Batu Hobon,5000.0,22(Hujan),24(Gerimis Berpetir),25(Gerimis Tidak Merata),25(Badai Guntur Tidak Merata),25(Badai Guntur Tidak Merata),24(Gerimis Berpetir),25(Badai Guntur Tidak Merata),25(Gerimis Berpetir)
+southwest,2.58887257,98.62768417,,5000.0,22(Hujan),24(Gerimis Berpetir),25(Gerimis Tidak Merata),25(Badai Guntur Tidak Merata),25(Badai Guntur Tidak Merata),24(Gerimis Berpetir),25(Badai Guntur Tidak Merata),25(Gerimis Berpetir)
+northeast,2.65318253,98.86209628,Pertunjukan Tari SIGALE GALE,5000.0,,,,,,,,
+southwest,2.65048287,98.85939662,,5000.0,,,,,,,,
+northeast,2.60550848,98.86941988,Batu marhosa,120000.0,21(Hujan),23(Gerimis Berpetir),24(Gerimis Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),23(Gerimis Berpetir),24(Gerimis Berpetir),24(Gerimis Berpetir)
+southwest,2.60280882,98.86672022,,120000.0,21(Hujan),23(Gerimis Berpetir),24(Gerimis Tidak Merata),24(Gerimis Berpetir),24(Badai Guntur Tidak Merata),23(Gerimis Berpetir),24(Gerimis Berpetir),24(Gerimis Berpetir)
+northeast,2.59656783,98.64749283,Batu Sawan,5000.0,21(Hujan),23(Gerimis Berpetir),24(Gerimis Tidak Merata),24(Badai Guntur Tidak Merata),24(Badai Guntur Tidak Merata),23(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir)
+southwest,2.59386817,98.64479317,,5000.0,21(Hujan),23(Gerimis Berpetir),24(Gerimis Tidak Merata),24(Badai Guntur Tidak Merata),24(Badai Guntur Tidak Merata),23(Gerimis Berpetir),24(Badai Guntur Tidak Merata),24(Gerimis Berpetir)
+northeast,2.61160083,98.86577628,AIR TERJUN SIGARATTUNG ( Sampuran Na Pitu),5000.0,,,,,,,,
+southwest,2.60890117,98.86307662,,5000.0,,,,,,,,
+northeast,2.66257638,98.84808813,Bukit Beta Tuk-tuk,100000.0,24(Hujan),26(Gerimis Berpetir),27(Gerimis Tidak Merata),27(Gerimis Berpetir),27(Badai Guntur Tidak Merata),27(Gerimis Berpetir),27(Gerimis berpetir),27(Gerimis Berpetir)
+southwest,2.65987672,98.84538847,,100000.0,24(Hujan),26(Gerimis Berpetir),27(Gerimis Tidak Merata),27(Gerimis Berpetir),27(Badai Guntur Tidak Merata),27(Gerimis Berpetir),27(Gerimis berpetir),27(Gerimis Berpetir)
+northeast,2.59124275,98.6258496,Hadabuan Naisogop Waterfalls,15000.0,,,,,,,,
+southwest,2.58841615,98.620002,,15000.0,,,,,,,,
+northeast,2.613146,98.84415473,Botanical Samosir,25000.0,21(Hujan),22(Gerimis Berpetir),23(Gerimis Tidak Merata),23(Gerimis Berpetir),23(Badai Guntur Tidak Merata),23(Gerimis berpetir),23(Gerimis Berpetir),23(Gerimis Berpetir)
+southwest,2.6083380000000003,98.84145507,,25000.0,21(Hujan),22(Gerimis Berpetir),23(Gerimis Tidak Merata),23(Gerimis Berpetir),23(Badai Guntur Tidak Merata),23(Gerimis berpetir),23(Gerimis Berpetir),23(Gerimis Berpetir)
+northeast,2.69922373,98.69143198,Pantai Indah Situngkir (PIS),0.0,,,,,,,,
+southwest,2.69652407,98.68873232,,0.0,,,,,,,,
+northeast,2.68036938,98.83774983,Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan ),5000.0,25(Hujan),27(Gerimis Berpetir),28(Gerimis Tidak Merata),28(Gerimis Berpetir),28(Badai Guntur Tidak Merata),27(Gerimis Berpetir),28(Gerimis Berpetir),28(Gerimis Berpetir)
+southwest,2.67766972,98.83505017,,5000.0,25(Hujan),27(Gerimis Berpetir),28(Gerimis Tidak Merata),28(Gerimis Berpetir),28(Badai Guntur Tidak Merata),27(Gerimis Berpetir),28(Gerimis Berpetir),28(Gerimis Berpetir)
+northeast,2.61872983,98.87335913,Parhallow viewpoint and coffee shop,350000.0,,,,,,,,
+southwest,2.61603017,98.87065947,,350000.0,,,,,,,,
+northeast,2.75344378,98.74572693,Museum Huta Bolon Simanindo,0.0,,,,,,,,
+southwest,2.75074412,98.74302727,,,,,,,,,,
